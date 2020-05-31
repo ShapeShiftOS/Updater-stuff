@@ -17,6 +17,9 @@
   ]
 }
 ```
+## Please keep in mind this may not be the exact .json format. Take a look at the other .jsons already present in this repository to understand the format. ##
+## Also, your changelog must be in an md format and the names of files should be the exact same device name as in the lunch command. ##
+## For example, if your device has a capital letter, as in Plate2, the changelog and json should be written similarly. ##
 
 >> This has to be named according to your codename. For example: begonia.json
 
