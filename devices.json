@@ -19,5 +19,26 @@
             "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
          }
       ]
+   },
+   {
+      "name": "Redmi K20 Pro / Mi 9T Pro",
+      "brand": "Xiaomi",
+      "codename": "raphael",
+      "supported_versions": [
+         {
+            "version_code": "android_10",
+            "version_name": "Ten",
+            "maintainer_name": "Alexandru Scurtu",
+            "maintainer_url": "https://github.com/sashascurtu",
+            "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+         },
+         {
+            "version_code": "android_10-official",
+            "version_name": "10 (Official)",
+            "maintainer_name": "Alexandru Scurtu",
+            "maintainer_url": "https://github.com/sashascurtu",
+            "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
+      ]
    }
 ]
