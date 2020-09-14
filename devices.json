@@ -103,5 +103,26 @@
             "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
          }
       ]
+   },
+   {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "supported_versions": [
+         {
+            "version_code": "android_10",
+            "version_name": "Ten",
+            "maintainer_name": "Suneesh S (Kalmin06)",
+            "maintainer_url": "https://github.com/kalmin06",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-shapeshiftos-t4111387"
+         },
+         {
+            "version_code": "android_10-official",
+            "version_name": "10 (Official)",
+            "maintainer_name": "Suneesh S (Kalmin06)",
+            "maintainer_url": "https://github.com/kalmin06",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-shapeshiftos-t4111387"
+         }
+      ]
    }
 ]
