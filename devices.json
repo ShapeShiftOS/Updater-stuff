@@ -122,6 +122,25 @@
             "maintainer_name": "Suneesh S (Kalmin06)",
             "maintainer_url": "https://github.com/kalmin06",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-shapeshiftos-t4111387"
+         },
+           {
+       "name": "Realme X",
+      "brand": "Realme",
+      "codename": "RMX1901",
+      "supported_versions": [
+         {
+            "version_code": "android_10",
+            "version_name": "Ten",
+            "maintainer_name": "Abhishek (Abhishe_k)",
+            "maintainer_url": "https://github.com/AbhishekRMX1901",
+            "xda_thread": "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+         },
+         {
+            "version_code": "android_10-official",
+            "version_name": "10 (Official)",
+            "maintainer_name": "Abhishek (Abhishe_k)",
+            "maintainer_url": "https://github.com/AbhishekRMX1901",
+            "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
          }
       ]
    }
