@@ -124,5 +124,26 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-shapeshiftos-t4111387"
          }
       ]
+   },
+   {
+      "name": "GSI (phh-treble)",
+      "brand": "Treble",
+      "codename": "Unknown",
+      "supported_versions": [
+         {
+            "version_code": "android_10",
+            "version_name": "Ten",
+            "maintainer_name": "Rian (source2008)",
+            "maintainer_url": "https://github.com/system-source2008",
+            "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"         
+         },          
+         {
+            "version_code": "android_10-official",
+            "version_name": "10 (Official)",
+            "maintainer_name": "Rian (source2008)",
+            "maintainer_url": "https://github.com/system-source2008",
+            "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
+      ]
    }
 ]
