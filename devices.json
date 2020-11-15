@@ -1,5 +1,26 @@
 [
    {
+      " nome " : " Redmi Note 7 " ,
+      " marca " : " Xiaomi " ,
+      " codinome " : " lavender " ,
+      " supported_versions " : [
+         {
+            " version_code " : " android_11 " ,
+            " version_name " : " Eleven " ,
+            " Maintainer_name " : " CHRISL7 " ,
+            " keeper_url " : " https://https://github.com/ChrisW444 " ,
+            " xda_thread " : " "
+         },
+         {
+            " version_code " : " android_11-official " ,
+            " version_name " : " 11 (oficial) " ,
+            " Maintainer_name " : " CHRISL7 " ,
+            " keeper_url " : " https://https://github.com/ChrisW444 " ,
+            " xda_thread " : " "
+         }
+      ]
+   },
+   {
       "name": "6T",
       "brand": "OnePlus",
       "codename": "fajita",
