@@ -126,3 +126,21 @@
       ]
    }
 ]
+
+
+Device and codename: Realme-x (RMX1901) 
+
+Device tree: https://github.com/icecrac34r/RMX1901_DT
+
+Kernel source: https://github.com/pjgowtham/kernel_realme_sdm710
+
+Current Linux subversion: Ubuntu 18.4
+
+Selinux: permissive 
+
+Safetynet status: Pass with Magisk (can pass without magisk but then i get google backup issues)
+
+Sourceforge username: icecrac34r-hem
+
+Telegram username: @icecrac34r_hem
+
