@@ -132,8 +132,7 @@ Device tree: https://github.com/icecrac34r/device_realme_RMX1901
 
 Kernel source: https://github.com/pjgowtham/kernel_realme_sdm710
 
-Current Linux subversion: Ubuntu 18.4
-
+Current Linux subversion: 4.9.227
 Selinux: permissive 
 
 Safetynet status: Pass with Magisk (can pass without magisk but then i get google backup issues)
