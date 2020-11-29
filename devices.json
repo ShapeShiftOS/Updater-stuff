@@ -26,18 +26,18 @@
       "codename": "davinci",
       "supported_versions": [
          {
-            "version_code": "android_10",
-            "version_name": "Ten",
-            "maintainer_name": "criticalerror99",
-            "maintainer_url": "https://github.com/criticalerror99",
-            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/rom-shapeshiftos-t4137423"
+            "version_code": "android_11",
+            "version_name": "Eleven",
+            "maintainer_name": "ArixElo",
+            "maintainer_url": "https://github.com/ArixElo",
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/rom-shapeshiftos-t4196017"
          },
          {
-            "version_code": "android_10-official",
-            "version_name": "10 (Official)",
-            "maintainer_name": "criticalerror99",
-            "maintainer_url": "https://github.com/criticalerror99",
-            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/rom-shapeshiftos-t4137423"
+            "version_code": "android_11-official",
+            "version_name": "11 (Official)",
+            "maintainer_name": "ArixElo",
+            "maintainer_url": "https://github.com/ArixElo",
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/rom-shapeshiftos-t4196017"
          }
       ]
    },
