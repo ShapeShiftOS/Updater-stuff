@@ -124,5 +124,19 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-shapeshiftos-t4111387"
          }
       ]
+    },
+    {
+      "name": "Xiaomi Mi A2",
+      "brand": "Xiaomi",
+      "codename": "jasmine_sprout",
+      "supported_versions": [
+         {
+            "version_code": "android_11",
+            "version_name": "Eleven",
+            "maintainer_name": "clarencelol",
+            "maintainer_url": "https://github.com/clarencelol",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r16-unofficial-stable-shapeshiftos-jasmine_sprout-mi-a2.4207051/"
+         }
+      ]
    }
 ]
