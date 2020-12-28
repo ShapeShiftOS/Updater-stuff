@@ -140,3 +140,19 @@
       ]
    }
 ]
+{
+      "name": "Xiaomi Mi A1",
+      "brand": "Xiaomi",
+      "codename": "tissot_sprout",
+      "supported_versions": [
+         {
+            "version_code": "android_11",
+            "version_name": "Eleven",
+            "maintainer_name": "Unknownbitch",
+            "maintainer_url": "https://github.com/Hmm0",
+            "xda_thread": "Nil"
+         }
+      ]
+   }
+]
+
