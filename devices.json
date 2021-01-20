@@ -141,14 +141,14 @@
     },
     {
       "name": "Zenfone Max Pro M2",
-      "brand": "ASUS",
+      "brand": "Asus",
       "codename": "X01BD"
       "supported_versions": [
          {
             "version_code": "android_11",
             "version_name": "Eleven",
             "maintainer_name": "Rams-ek",
-            "maintainer_url": "https://github.com/BloodyHeartR/",
+            "maintainer_url": "https://github.com/Rams-ek",
             "xda_thread": "https://forum.xda-developers.com/t/unofficial-a11-shapeshift-os-stable-x01bd.4209241/"
          }
       ]
