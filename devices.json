@@ -180,5 +180,19 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r20-unofficial-stable-shapeshiftos-tissot.4211819/"
          }
       ]
+   },
+   {
+      "name": "Xiaomi Mi 10",
+      "brand": "Xiaomi",
+      "codename": "umi",
+      "supported_versions": [
+         {
+            "version_code": "android_11",
+            "version_name": "Eleven",
+            "maintainer_name": "criticalerror99",
+            "maintainer_url": "https://github.com/criticalerror99",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r20-official-stable-shapeshiftos-umi.4223013/"
+         }
+      ]
    }
 ]
