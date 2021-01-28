@@ -210,3 +210,15 @@
       ]
    }
 ]
+{
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "codename": "Lavender",
+      "supported_versions": [
+         {
+            "version_code": "android_11",
+            "version_name": "Eleven",
+            "maintainer_name": "zaidkhan0997",
+            "maintainer_url": "https://github.com/zaidkhan0997",
+            "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
