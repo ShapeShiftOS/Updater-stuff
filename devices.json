@@ -210,3 +210,18 @@
       ]
    }
 ]
+  {
+      "name": "Poco F2 Pro | Redmi k30 Pro",
+      "brand": "Poco",
+      "codename": "lmi/lmipro",
+      "supported_versions": [
+         {
+            "version_code": "android_11",
+            "version_name": "Eleven",
+            "maintainer_name": "soumyo19",
+            "maintainer_url": "https://github.com/soumyo19",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-unofficial-stable-lmi-shapeshift-os-2-2-2021-01-30.4225771/"
+         }
+      ]
+   }
+]
