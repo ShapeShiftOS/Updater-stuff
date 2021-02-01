@@ -208,5 +208,19 @@
             "xda_thread": "https://forum.xda-developers.com/t/unofficial-a11-shapeshift-os-stable-x01bd.4209241/"
          }
       ]
+   },
+   {
+      "name": "Xiaomi POCO X3 (NFC)",
+      "brand": "Xiaomi",
+      "codename": "surya",
+      "supported_versions": [
+         {
+            "version_code": "android_11",
+            "version_name": "Eleven",
+            "maintainer_name": "Roxirp",
+            "maintainer_url": "https://github.com/roxipro",
+            "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+        }
+      ]
    }
 ]
