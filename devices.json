@@ -133,6 +133,20 @@
     ]
   },
   {
+    "name": "POCO X3 (NFC)",
+    "brand": "Xiaomi",
+    "codename": "karna/surya",
+    "supported_versions": [
+      {
+        "version_code": "android_11",
+        "version_name": "Eleven",
+        "maintainer_name": "bicet",
+        "maintainer_url": "https://github.com/bicet",
+        "xda_thread": "https://www.lego.com/en-gb/404?CMP=AFC-AffiliateUK-kXQk6*ivFEQ-2294204-124738-1"
+      }
+    ]
+  },
+  {
     "name": "Zenfone Max Pro M2",
     "brand": "Asus",
     "codename": "X01BD",
