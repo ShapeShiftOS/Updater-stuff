@@ -220,17 +220,21 @@
             "maintainer_name": "Roxirp",
             "maintainer_url": "https://github.com/roxipro",
             "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+      }
+    ]
+  },
+  {
+    "name": "Redmi Note 7/7S",
+    "brand": "Xiaomi",
+    "codename": "lavender",
+    "supported_versions": [
+      {
+        "version_code": "android_11",
+        "version_name": "Eleven",
+        "maintainer_name": "Brian Jose",
+        "maintainer_url": "https://github.com/whtisusername",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-unofficial-shapeshiftos-2-4-treecko.4225111/"
         }
       ]
    }
 ]
-      "name": "Xiaomi Redmi Note 7",
-      "brand": "Xiaomi",
-      "codename": "lavender",
-      "supported_versions": [
-         {
-            "version_code": "android_11",
-            "version_name": "Eleven",
-            "maintainer_name": "Brian Jose",
-            "maintainer_url": "https://github.com/whtisusername",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-unofficial-shapeshiftos-2-2-marshtomp.4225111/"
