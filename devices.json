@@ -173,5 +173,19 @@
         "xda_thread": "https://forum.xda-developers.com/t/unofficial-a11-shapeshift-os-stable-x01bd.4209241/"
       }
     ]
+  },
+  {
+    "name": "Realme 3 Pro",
+    "brand": "Realme",
+    "codename": "RMX1851",
+    "supported_versions": [
+      {
+        "version_code": "android_11",
+        "version_name": "Eleven",
+        "maintainer_name": "KKShedge",
+        "maintainer_url": "https://github.com/KrishnakantShedge",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r27-unofficial-stable-shapeshiftos-rmx1851.4239305/"
+      }
+    ]
   }
 ]
