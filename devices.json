@@ -202,4 +202,18 @@
       }
     ]
   }
+  {
+    "name": "8T",
+    "brand": "OnePlus",
+    "codename": "Kebab",
+    "supported_versions": [
+      {
+        "version_code": "android_11",
+        "version_name": "Eleven",
+        "maintainer_name": "Lukas",
+        "maintainer_url": "https://github.com/xK4m3l",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-official-stable-shapeshiftos-kebab.4255595//"
+      }
+    ]
+  }
 ]
