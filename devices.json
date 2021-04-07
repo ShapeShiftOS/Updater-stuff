@@ -1,219 +1,268 @@
 [
-  {
-    "name": "6T",
-    "brand": "OnePlus",
-    "codename": "fajita",
-    "supported_versions": [
-      {
-        "version_code": "android_10",
-        "version_name": "Ten",
-        "maintainer_name": "Ashutosh Sundresh",
-        "maintainer_url": "https://github.com/AshutoshSundresh",
-        "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
-      },
-      {
-        "version_code": "android_10-official",
-        "version_name": "10 (Official)",
-        "maintainer_name": "Ashutosh Sundresh",
-        "maintainer_url": "https://github.com/AshutoshSundresh",
-        "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
-      }
-    ]
-  },
-  {
-    "name": "Redmi K20 / Mi 9T",
-    "brand": "Xiaomi",
-    "codename": "davinci",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "ArixElo",
-        "maintainer_url": "https://github.com/ArixElo",
-        "xda_thread": "https://forum.xda-developers.com/mi-9t/development/rom-shapeshiftos-t4196017"
-      },
-      {
-        "version_code": "android_11-official",
-        "version_name": "11 (Official)",
-        "maintainer_name": "ArixElo",
-        "maintainer_url": "https://github.com/ArixElo",
-        "xda_thread": "https://forum.xda-developers.com/mi-9t/development/rom-shapeshiftos-t4196017"
-      }
-    ]
-  },
-  {
-    "name": "Redmi K20 Pro / Mi 9T Pro",
-    "brand": "Xiaomi",
-    "codename": "raphael",
-    "supported_versions": [
-      {
-        "version_code": "android_10",
-        "version_name": "Ten",
-        "maintainer_name": "Alexandru Scurtu",
-        "maintainer_url": "https://github.com/sashascurtu",
-        "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
-      },
-      {
-        "version_code": "android_10-official",
-        "version_name": "10 (Official)",
-        "maintainer_name": "Alexandru Scurtu",
-        "maintainer_url": "https://github.com/sashascurtu",
-        "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Mi A2",
-    "brand": "Xiaomi",
-    "codename": "jasmine_sprout",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "clarencelol",
-        "maintainer_url": "https://github.com/clarencelol",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r16-unofficial-stable-shapeshiftos-jasmine_sprout-mi-a2.4207051/"
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Mi 6X",
-    "brand": "Xiaomi",
-    "codename": "wayne",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "clarencelol",
-        "maintainer_url": "https://github.com/clarencelol",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r27-unofficial-stable-shapeshiftos-wayne.4223009/"
-      }
-    ]
-  },
-  {
-    "name": "Redmi Note 7 Pro",
-    "brand": "Xiaomi",
-    "codename": "violet",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "galanteria01",
-        "maintainer_url": "https://github.com/galanteria01",
-        "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Mi A1",
-    "brand": "Xiaomi",
-    "codename": "tissot_sprout",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "Unknownbitch",
-        "maintainer_url": "https://github.com/Unknownbitch07",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r20-unofficial-stable-shapeshiftos-tissot.4211819/"
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Mi 10",
-    "brand": "Xiaomi",
-    "codename": "umi",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "criticalerror99",
-        "maintainer_url": "https://github.com/criticalerror99",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r20-official-stable-shapeshiftos-umi.4223013/"
-      }
-    ]
-  },
-  {
-    "name": "POCO X3 (NFC)",
-    "brand": "Xiaomi",
-    "codename": "karna/surya",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "bicet",
-        "maintainer_url": "https://github.com/bicet",
-        "xda_thread": "https://www.lego.com/en-gb/404?CMP=AFC-AffiliateUK-kXQk6*ivFEQ-2294204-124738-1"
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Redmi 4a",
-    "brand": "Xiaomi",
-    "codename": "rolex",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "MezzLasha",
-        "maintainer_url": "https://github.com/MezzLasha",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-stable-shapeshiftos-rolex.4244605/"
-      }
-    ]
-  },
-  {
-    "name": "Zenfone Max Pro M2",
-    "brand": "Asus",
-    "codename": "X01BD",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "Rams-ek",
-        "maintainer_url": "https://github.com/Rams-ek",
-        "xda_thread": "https://forum.xda-developers.com/t/unofficial-a11-shapeshift-os-stable-x01bd.4209241/"
-      }
-    ]
-  },
-  {
-    "name": "Realme 3 Pro",
-    "brand": "Realme",
-    "codename": "RMX1851",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "KKShedge",
-        "maintainer_url": "https://github.com/KrishnakantShedge",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r27-unofficial-stable-shapeshiftos-rmx1851.4239305/"
-      }
-    ]
-  },
-  {
-    "name": "Realme 5 Pro",
-    "brand": "Realme",
-    "codename": "RMX1971",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "goshawk22",
-        "maintainer_url": "https://github.com/goshawk22",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-shapeshiftos-swampert-for-realme-5-pro.4241353/"
-      }
-    ]
-  }
-  {
-    "name": "8T",
-    "brand": "OnePlus",
-    "codename": "Kebab",
-    "supported_versions": [
-      {
-        "version_code": "android_11",
-        "version_name": "Eleven",
-        "maintainer_name": "Lukas",
-        "maintainer_url": "https://github.com/xK4m3l",
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-0-official-stable-shapeshiftos-kebab.4255595//"
-      }
-    ]
-  }
+   {
+      "name":"6T",
+      "brand":"OnePlus",
+      "codename":"fajita",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"Ten",
+            "maintainer_name":"Ashutosh Sundresh",
+            "maintainer_url":"https://github.com/AshutoshSundresh",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r33-official-shapeshiftos-fajita.4207973/"
+         }
+      ]
+   },
+   {
+      "name":"8 Pro",
+      "brand":"OnePlus",
+      "codename":"instantnoodlep",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"Ten",
+            "maintainer_name":"Ashutosh Sundresh",
+            "maintainer_url":"https://github.com/AshutoshSundresh",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-official-stable-shapeshiftos-instantnoodlep.4258115/"
+         }
+      ]
+   },
+   {
+      "name":"8",
+      "brand":"OnePlus",
+      "codename":"instantnoodle",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"san9",
+            "maintainer_url":"https://github.com/sashascurtu",
+            "xda_thread":"https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
+      ]
+   },
+   {
+      "name":"Redmi K20 Pro / Mi 9T Pro",
+      "brand":"Xiaomi",
+      "codename":"raphael",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Pavan Parmeshwar",
+            "maintainer_url":"https://github.com/pavanpaps",
+            "xda_thread":"https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
+      ]
+   },
+   {
+      "name":"Redmi K20 / Mi 9T",
+      "brand":"Xiaomi",
+      "codename":"davinci",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"ArixElo",
+            "maintainer_url":"https://github.com/ArixElo",
+            "xda_thread":"https://forum.xda-developers.com/mi-9t/development/rom-shapeshiftos-t4196017"
+         }
+      ]
+   },
+   {
+      "name":"Mi A2",
+      "brand":"Xiaomi",
+      "codename":"jasmine_sprout",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"clarencelol",
+            "maintainer_url":"https://github.com/clarencelol",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r16-unofficial-stable-shapeshiftos-jasmine_sprout-mi-a2.4207051/"
+         }
+      ]
+   },
+   {
+      "name":"Mi 6X",
+      "brand":"Xiaomi",
+      "codename":"wayne",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"clarencelol",
+            "maintainer_url":"https://github.com/clarencelol",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r27-unofficial-stable-shapeshiftos-wayne.4223009/"
+         }
+      ]
+   },
+   {
+      "name":"Redmi Note 7 Pro",
+      "brand":"Xiaomi",
+      "codename":"violet",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"galanteria01",
+            "maintainer_url":"https://github.com/galanteria01",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r33-official-stable-shapeshiftos-2-4-violet-treecko.4231337/"
+         }
+      ]
+   },
+   {
+      "name":"Mi A1",
+      "brand":"Xiaomi",
+      "codename":"tissot_sprout",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Unknownbitch",
+            "maintainer_url":"https://github.com/Unknownbitch07",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-unofficial-stable-shapeshiftos-tissot.4211819/"
+         }
+      ]
+   },
+   {
+      "name":"Mi 10",
+      "brand":"Xiaomi",
+      "codename":"umi",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"criticalerror99",
+            "maintainer_url":"https://github.com/criticalerror99",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-official-stable-shapeshiftos-umi.4223013/"
+         }
+      ]
+   },
+   {
+      "name":"X3",
+      "brand":"POCO",
+      "codename":"surya",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"bicet",
+            "maintainer_url":"https://github.com/bicet",
+            "xda_thread":"https://www.lego.com/en-gb/404?CMP=AFC-AffiliateUK-kXQk6*ivFEQ-2294204-124738-1"
+         }
+      ]
+   },
+   {
+      "name":"Redmi 4A",
+      "brand":"Xiaomi",
+      "codename":"rolex",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"MezzLasha",
+            "maintainer_url":"https://github.com/MezzLasha",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-stable-shapeshiftos-rolex.4244605/"
+         }
+      ]
+   },
+   {
+      "name":"3 Pro",
+      "brand":"Realme",
+      "codename":"RMX1851",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"KKShedge",
+            "maintainer_url":"https://github.com/KrishnakantShedge",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r27-unofficial-stable-shapeshiftos-rmx1851.4239305/"
+         }
+      ]
+   },
+   {
+      "name":"5 Pro",
+      "brand":"Realme",
+      "codename":"RMX1971",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"goshawk22",
+            "maintainer_url":"https://github.com/goshawk22",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-unofficial-shapeshiftos-swampert-for-realme-5-pro.4241353/"
+         }
+      ]
+   },
+   {
+      "name":"8T",
+      "brand":"OnePlus",
+      "codename":"kebab",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Lukas",
+            "maintainer_url":"https://github.com/xK4m3l",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0-official-stable-shapeshiftos-kebab.4255595/"
+         }
+      ]
+   },
+   {
+      "name":"Redmi S2 / Y2",
+      "brand":"Xiaomi",
+      "codename":"ysl",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"MiDoNaSR",
+            "maintainer_url":"https://github.com/MiDoNaSR545",
+            "xda_thread":"https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
+      ]
+   },
+   {
+      "name":"Mi 10T / Pro",
+      "brand":"Xiaomi",
+      "codename":"apollo",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Ahmed Tohamy",
+            "maintainer_url":"https://github.com/ahmedtohamy1",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r33-official-stable-shapeshiftos-mi-10t-apollo-pro.4256045/"
+         }
+      ]
+   },
+   {
+      "name":"Redmi Note 8 / 8T",
+      "brand":"Xiaomi",
+      "codename":"ginkgo",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"NitroFuN",
+            "maintainer_url":"https://github.com/NitroFuN",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-official-stable-shapeshiftos-ginkgo-willow-unified.4206997/"
+         }
+      ]
+   },
+   {
+      "name":"Poco F1",
+      "brand":"Xiaomi",
+      "codename":"beryllium",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Neel",
+            "maintainer_url":"https://github.com/neel685",
+            "xda_thread":"https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
+      ]
+   }
 ]
