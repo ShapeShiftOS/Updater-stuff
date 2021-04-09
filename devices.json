@@ -264,5 +264,19 @@
             "xda_thread":"https://en.m.wikipedia.org/wiki/HTTP_404"
          }
       ]
+   },
+   {
+      "name":"Moto G5S Plus",
+      "brand":"Motorola",
+      "codename":"sanders",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Mayur Varde",
+            "maintainer_url":"https://github.com/marshmello61",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-unofficial-stable-shapeshiftos-sanders.4259701/"
+         }
+      ]
    }
 ]
