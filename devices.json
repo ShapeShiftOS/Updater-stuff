@@ -278,5 +278,18 @@
             "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-unofficial-stable-shapeshiftos-sanders.4259701/"
          }
       ]
+   },
+   {
+      "name":"X2",
+      "brand":"Xiaomi",
+      "codename":"phoenix",
+      "supported_versions":[
+         {
+            "version_code":"android_11",                                                 "version_name":"eleven",
+            "maintainer_name":"Ankan Ghosh",
+            "maintainer_url":"https://github.com/ankan005",
+            "xda_thread":"right now not available will make"
+         }
+      ]
    }
 ]
