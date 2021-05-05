@@ -278,5 +278,19 @@
             "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-unofficial-stable-shapeshiftos-sanders.4259701/"
          }
       ]
+   },
+   {
+      "name":"POCO X2",
+      "brand":"Xiaomi",
+      "codename":"phoenix",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Mihir Sahay",
+            "maintainer_url":"https://github.com/mihirsahay",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-unofficial-stable-shapeshiftos-phoenix-phoenixin.4272411/"
+         }
+      ]
    }
 ]
