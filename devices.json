@@ -140,20 +140,6 @@
       ]
    },
    {
-      "name":"Redmi 4A",
-      "brand":"Xiaomi",
-      "codename":"rolex",
-      "supported_versions":[
-         {
-            "version_code":"android_11",
-            "version_name":"eleven",
-            "maintainer_name":"MezzLasha",
-            "maintainer_url":"https://github.com/MezzLasha",
-            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-stable-shapeshiftos-rolex.4244605/"
-         }
-      ]
-   },
-   {
       "name":"3 Pro",
       "brand":"Realme",
       "codename":"RMX1851",
