@@ -278,5 +278,19 @@
             "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-unofficial-stable-shapeshiftos-phoenix-phoenixin.4272411/"
          }
       ]
+   },
+   {
+      "name":"F3",
+      "brand":"POCO",
+      "codename":"alioth",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"bicet",
+            "maintainer_url":"https://github.com/bicet",
+            "xda_thread":"https://www.lego.com/en-gb/404?CMP=AFC-AffiliateUK-kXQk6*ivFEQ-2294204-124738-1"
+         }
+      ]
    }
 ]
