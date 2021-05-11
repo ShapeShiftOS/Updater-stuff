@@ -1,5 +1,19 @@
 [
    {
+      "name":"X3",
+      "brand":"Poco",
+      "codename":"surya",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"Eleven",
+            "maintainer_name":"Akash Kakkar",
+            "maintainer_url":"https://github.com/akash07k",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-stable-shapeshiftos-surya.4275475/"
+         }
+      ]
+   },
+   {
       "name":"6T",
       "brand":"OnePlus",
       "codename":"fajita",
