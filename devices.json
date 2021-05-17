@@ -334,5 +334,19 @@
             "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_rxx-official-stable-shapeshiftos-enchilada.4198429/"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 7",
+      "brand":"Xiaomi",
+      "codename":"lavender",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Iszon",
+            "maintainer_url":"https://github.com/iszon",
+            "xda_thread":"https://i.imgur.com/gBOqhAv.png"
+         }
+      ]
    }
 ]
