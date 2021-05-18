@@ -334,5 +334,19 @@
             "xda_thread":"https://i.imgur.com/gBOqhAv.png"
          }
       ]
+   },
+   {
+      "name":"POCO X3 (NFC)",
+      "brand":"Xiaomi",
+      "codename":"surya",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"GtrCraft",
+            "maintainer_url":"https://github.com/GtrCraft",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r37-unofficial-stable-shapeshiftos-surya.4278673/"
+         }
+      ]
    }
 ]
