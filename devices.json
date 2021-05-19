@@ -336,3 +336,18 @@
       ]
    }
 ]
+{
+      "name":"Redmi Note 5 Pro",
+      "brand":"Xiaomi",
+      "codename":"whyred",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Arnav",
+            "maintainer_url":"https://github.com/arnavpuranik",
+            "xda_thread":"https://i.imgur.com/gBOqhAv.png"
+         }
+      ]
+   }
+]
