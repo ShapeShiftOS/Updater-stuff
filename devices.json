@@ -320,5 +320,19 @@
             "xda_thread":"https://i.imgur.com/gBOqhAv.png"
          }
       ]
-   }
+   },
+  {
+    "name": "Redmi Note 9 Pro/ 9S / 9 Pro Max / Poco M2 Pro",
+    "brand": "Xiaomi",
+    "codename": "Miatoll",
+    "supported_versions": [
+      {
+        "version_code": "android_11",
+        "version_name": "Eleven",
+        "maintainer_name": "Notabot69",
+        "maintainer_url": "https://github.com/Arjun-Ingole",
+        "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
+      }
+    ]
+  }
 ]
