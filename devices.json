@@ -126,20 +126,6 @@
       ]
    },
    {
-      "name":"Mi 10",
-      "brand":"Xiaomi",
-      "codename":"umi",
-      "supported_versions":[
-         {
-            "version_code":"android_11",
-            "version_name":"eleven",
-            "maintainer_name":"criticalerror99",
-            "maintainer_url":"https://github.com/criticalerror99",
-            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-official-stable-shapeshiftos-umi.4223013/"
-         }
-      ]
-   },
-   {
       "name":"3 Pro",
       "brand":"Realme",
       "codename":"RMX1851",
@@ -280,8 +266,8 @@
       ]
    },
    {
-      "name":"Oneplus 5T",
-      "brand":"Oneplus",
+      "name":"5T",
+      "brand":"OnePlus",
       "codename":"dumpling",
       "supported_versions":[
          {
@@ -322,9 +308,9 @@
       ]
    },
    {
-    "name": "Redmi Note 9 Pro/ 9S / 9 Pro Max / Poco M2 Pro",
+    "name": "Redmi Note 9 Pro / 9S / 9 Pro Max / Poco M2 Pro",
     "brand": "Xiaomi",
-    "codename": "Miatoll",
+    "codename": "miatoll",
     "supported_versions": [
       {
         "version_code": "android_11",
