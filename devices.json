@@ -306,8 +306,8 @@
             "xda_thread":"https://i.imgur.com/gBOqhAv.png"
          }
       ]
-   },
-   {
+  },
+  {
     "name": "Redmi Note 9 Pro / 9S / 9 Pro Max / Poco M2 Pro",
     "brand": "Xiaomi",
     "codename": "miatoll",
@@ -320,5 +320,19 @@
         "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
       }
     ]
+  },
+  {
+      "name":"Realme X2",
+      "brand":"Realme",
+      "codename":"X2",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Retypolkg",
+            "maintainer_url":"https://github.com/Retypolkg",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-unofficial-stable-shapeshiftos-realme-x2.4290745/"
+         }
+      ]
   }
 ]
