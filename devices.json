@@ -320,5 +320,19 @@
         "xda_thread": "https://en.m.wikipedia.org/wiki/HTTP_404"
       }
     ]
-  }
+   },
+   {
+      "name":"Xiaomi Redmi Note 10",
+      "brand":"Xiaomi",
+      "codename":"mojito",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Antoni Bal (mlodybalu)",
+            "maintainer_url":"https://github.com/lukizel",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r37-unofficial-stable-shapeshiftos-mojito.4291603/"
+         }
+      ]
+   }
 ]
