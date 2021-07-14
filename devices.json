@@ -28,6 +28,20 @@
       ]
    },
    {
+      "name":"Redmi 8 Series"
+      "brand":"Xiaomi"
+      "codename":"olives"
+      "supported_version":[
+         {
+            "version_code":"android_11"
+            "version_name":"eleven"
+            "maintainer_name":"Chuck."
+            "maintainer_url":"https://github.com/Chuck439"
+            "xda_thread":""
+         }
+      ]
+   },
+   {
       "name":"8",
       "brand":"OnePlus",
       "codename":"instantnoodle",
