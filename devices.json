@@ -252,6 +252,20 @@
       ]
    },
    {
+      "name":"POCO X3 Pro",
+      "brand":"Xiaomi",
+      "codename":"vayu",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_url":"https://github.com/xawlw",
+            "maintainer_name":"xawlw",
+            "xda_thread":"https://bit.ly/3z2DhZg"
+         }
+      ]
+   },
+   {
       "name":"F3",
       "brand":"POCO",
       "codename":"alioth",
