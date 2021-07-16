@@ -140,20 +140,6 @@
       ]
    },
    {
-      "name":"5 Pro",
-      "brand":"Realme",
-      "codename":"RMX1971",
-      "supported_versions":[
-         {
-            "version_code":"android_11",
-            "version_name":"eleven",
-            "maintainer_name":"goshawk22",
-            "maintainer_url":"https://github.com/goshawk22",
-            "xda_thread":"https://forum.xda-developers.com/t/rom-11-unofficial-shapeshiftos-swampert-for-realme-5-pro.4241353/"
-         }
-      ]
-   },
-   {
       "name":"8T",
       "brand":"OnePlus",
       "codename":"kebab",
