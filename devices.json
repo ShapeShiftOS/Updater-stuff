@@ -98,6 +98,20 @@
       ]
    },
    {
+      "name":"Mi 6X",
+      "brand":"Xiaomi",
+      "codename":"wayne",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"clarencelol",
+            "maintainer_url":"https://github.com/clarencelol",
+            "xda_thread":"https://en.m.wikipedia.org/wiki/HTTP_404"
+         }
+      ]
+   },
+   {
       "name":"Redmi Note 7 Pro",
       "brand":"Xiaomi",
       "codename":"violet",
