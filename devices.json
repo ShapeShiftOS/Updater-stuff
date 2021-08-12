@@ -154,6 +154,20 @@
       ]
    },
    {
+      "name":"5 Pro",
+      "brand":"Realme",
+      "codename":"RMX1971",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Krish Walecha",
+            "maintainer_url":"https://github.com/Mxlfunction",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-unofficial-shapeshiftos-for-realme-5-pro-rmx1971.4318445/"
+         }
+      ]
+   },
+   {
       "name":"8T",
       "brand":"OnePlus",
       "codename":"kebab",
