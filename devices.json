@@ -348,5 +348,19 @@
             "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-unofficial-stable-shapeshiftos-realme-x2.4290745/"
          }
       ]
+   },
+   {
+      "name":"Realme 7 Pro",
+      "brand":"Realme",
+      "codename":"RMX2170",
+      "supported_versions":[
+         {
+            "version_code":"android_11",
+            "version_name":"eleven",
+            "maintainer_name":"Mayur Varde",
+            "maintainer_url":"https://github.com/marshmello61",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r37-unofficial-stable-shapeshiftos-for-realme-7-pro-rmx2170.4294245/"
+         }
+      ]
   }
 ]
