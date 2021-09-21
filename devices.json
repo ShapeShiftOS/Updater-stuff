@@ -108,7 +108,7 @@
   "Xiaomi": [
     {
       "apollo": {
-        "name": "Mi 10T / Pro",
+        "name": "Xiaomi Mi 10T / Pro",
         "maintainer": "ejbtrd",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r33-official-stable-shapeshiftos-mi-10t-apollo-pro.4256045/",
         "tg_id": 883223328
@@ -120,7 +120,7 @@
         "tg_id": 234641578
       },
       "jasmine_sprout": {
-        "name": "Mi A2",
+        "name": "Xiaomi Mi A2",
         "maintainer": "clarencelol",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r16-unofficial-stable-shapeshiftos-jasmine_sprout-mi-a2.4207051/",
         "tg_id": 469036596
@@ -150,7 +150,7 @@
         "tg_id": 476405482
       },
       "tissot_sprout": {
-        "name": "Mi A1",
+        "name": "Xiaomi Mi A1",
         "maintainer": "Unknownbitch",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-unofficial-stable-shapeshiftos-tissot.4211819/",
         "tg_id": 1133525861
@@ -162,7 +162,7 @@
         "tg_id": 770108549
       },
       "wayne": {
-        "name": "Mi 6X",
+        "name": "Xiaomi Mi 6X",
         "maintainer": "clarencelol",
         "xda_thread": "No",
         "tg_id": 469036596
