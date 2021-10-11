@@ -5,6 +5,7 @@
         "name": "Moto G5S Plus",
         "maintainer": "Mayur Varde",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-unofficial-stable-shapeshiftos-sanders.4259701/",
+        "support_group": null,
         "tg_id": 539681408
       }
     }
@@ -15,42 +16,49 @@
         "name": "5",
         "maintainer": "mezzlasha",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 817474333
       },
       "dumpling": {
         "name": "5T",
         "maintainer": "mezzlasha",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 817474333
       },
       "enchilada": {
         "name": "6",
         "maintainer": "eduardo",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_rxx-official-stable-shapeshiftos-enchilada.4198429/",
+        "support_group": null,
         "tg_id": 202472458
       },
       "fajita": {
         "name": "6T",
         "maintainer": "Ashutosh Sundresh",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r33-official-shapeshiftos-fajita.4207973/",
+        "support_group": null,
         "tg_id": 1371333535
       },
       "instantnoodle": {
         "name": "8",
         "maintainer": "san9",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-official-stable-shapeshiftos-instantnoodle.4259325/",
+        "support_group": null,
         "tg_id": 1788815087
       },
       "instantnoodlep": {
         "name": "8 Pro",
         "maintainer": "Ashutosh Sundresh",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-official-stable-shapeshiftos-instantnoodlep.4258115/",
+        "support_group": null,
         "tg_id": 1371333535
       },
       "kebab": {
         "name": "8T",
         "maintainer": "Lukas",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0-official-stable-shapeshiftos-kebab.4255595/",
+        "support_group": null,
         "tg_id": 591918751
       }
     }
@@ -61,18 +69,21 @@
         "name": "3 Pro",
         "maintainer": "KKShedge",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r27-unofficial-stable-shapeshiftos-rmx1851.4239305/",
+        "support_group": null,
         "tg_id": 988615073
       },
       "RMX2170": {
         "name": "7 Pro",
         "maintainer": "Mayur Varde",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r37-unofficial-stable-shapeshiftos-for-realme-7-pro-rmx2170.4294245/",
+        "support_group": null,
         "tg_id": 539681408
       },
       "X2": {
         "name": "X2",
         "maintainer": "Retypolkg",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-unofficial-stable-shapeshiftos-realme-x2.4290745/",
+        "support_group": null,
         "tg_id": 685497406
       }
     }
@@ -83,66 +94,77 @@
         "name": "POCO F3",
         "maintainer": "bicet",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 25237286
       },
       "apollo": {
         "name": "Mi 10T / Pro",
         "maintainer": "ejbtrd",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r33-official-stable-shapeshiftos-mi-10t-apollo-pro.4256045/",
+        "support_group": null,
         "tg_id": 883223328
       },
       "beryllium": {
         "name": "POCO F1",
         "maintainer": "Neel",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 1440793492
       },
       "ginkgo": {
         "name": "Redmi Note 8 / 8T",
         "maintainer": "NitroFuNxD",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-official-stable-shapeshiftos-ginkgo-willow-unified.4206997/",
+        "support_group": null,
         "tg_id": 234641578
       },
       "jasmine_sprout": {
         "name": "Mi A2",
         "maintainer": "clarencelol",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r16-unofficial-stable-shapeshiftos-jasmine_sprout-mi-a2.4207051/",
+        "support_group": null,
         "tg_id": 469036596
       },
       "lavender": {
         "name": "Redmi Note 7",
         "maintainer": "Iszon",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 759846584
       },
       "miatoll": {
         "name": "SD720g Devices",
         "maintainer": "Notabot69",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 1380028411
       },
       "mido": {
         "name": "Redmi Note 4",
         "maintainer": "ArixElo",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 479653169
       },
       "phoenix": {
         "name": "POCO X2",
         "maintainer": "Mihir Sahay",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-unofficial-stable-shapeshiftos-phoenix-phoenixin.4272411/",
+        "support_group": null,
         "tg_id": 708184173
       },
       "raphael": {
         "name": "Redmi K20 Pro / Mi 9T Pro",
         "maintainer": "Pavan Parmeshwar",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 476405482
       },
       "tissot_sprout": {
         "name": "Mi A1",
         "maintainer": "Unknownbitch",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-unofficial-stable-shapeshiftos-tissot.4211819/",
+        "support_group": null,
         "tg_id": 1133525861
       },
       "vayu": {
@@ -155,18 +177,21 @@
         "name": "Redmi Note 7 Pro",
         "maintainer": "galanteria01",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r33-official-stable-shapeshiftos-2-4-violet-treecko.4231337/",
+        "support_group": null,
         "tg_id": 770108549
       },
       "wayne": {
         "name": "Mi 6X",
         "maintainer": "clarencelol",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 469036596
       },
       "ysl": {
         "name": "Redmi S2 / Y2",
         "maintainer": "MiDoNaSR",
         "xda_thread": "No",
+        "support_group": null,
         "tg_id": 376528543
       }
     }
