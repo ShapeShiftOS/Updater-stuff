@@ -160,11 +160,11 @@
         "support_group": null,
         "tg_id": 476405482
       },
-      "tissot_sprout": {
+      "tissot": {
         "name": "Mi A1",
         "maintainer": "Unknownbitch",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r20-unofficial-stable-shapeshiftos-tissot.4211819/",
-        "support_group": null,
+        "support_group": "https://t.me/ubz_area",
         "tg_id": 1133525861
       },
       "vayu": {
