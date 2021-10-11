@@ -15,14 +15,14 @@
       "cheeseburger": {
         "name": "5",
         "maintainer": "mezzlasha",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 817474333
       },
       "dumpling": {
         "name": "5T",
         "maintainer": "mezzlasha",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 817474333
       },
@@ -93,7 +93,7 @@
       "alioth": {
         "name": "POCO F3",
         "maintainer": "bicet",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 25237286
       },
@@ -107,7 +107,7 @@
       "beryllium": {
         "name": "POCO F1",
         "maintainer": "Neel",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 1440793492
       },
@@ -128,21 +128,21 @@
       "lavender": {
         "name": "Redmi Note 7",
         "maintainer": "Iszon",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": "https://t.me/lavenderboys",
         "tg_id": 759846584
       },
       "miatoll": {
         "name": "SD720g Devices",
         "maintainer": "Notabot69",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 1380028411
       },
       "mido": {
         "name": "Redmi Note 4",
         "maintainer": "ArixElo",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 479653169
       },
@@ -156,7 +156,7 @@
       "raphael": {
         "name": "Redmi K20 Pro / Mi 9T Pro",
         "maintainer": "Pavan Parmeshwar",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 476405482
       },
@@ -170,7 +170,7 @@
       "vayu": {
         "name": "POCO X3 Pro",
         "maintainer": "xawlw",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": "https://t.me/ssos_vayu",
         "tg_id": 669996708
       },
@@ -184,14 +184,14 @@
       "wayne": {
         "name": "Mi 6X",
         "maintainer": "clarencelol",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 469036596
       },
       "ysl": {
         "name": "Redmi S2 / Y2",
         "maintainer": "MiDoNaSR",
-        "xda_thread": "No",
+        "xda_thread": null,
         "support_group": null,
         "tg_id": 376528543
       }
