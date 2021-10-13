@@ -37,28 +37,28 @@
         "name": "6T",
         "maintainer": "Ashutosh Sundresh",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0_r33-official-shapeshiftos-fajita.4207973/",
-        "support_group": "t.me/surfaceflinger_chat",
+        "support_group": "https://t.me/surfaceflinger_chat",
         "tg_id": 1371333535
       },
       "instantnoodle": {
         "name": "8",
         "maintainer": "san9",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-official-stable-shapeshiftos-instantnoodle.4259325/",
-        "support_group": "t.me/ssos8series",
+        "support_group": "https://t.me/ssos8series",
         "tg_id": 1788815087
       },
       "instantnoodlep": {
         "name": "8 Pro",
         "maintainer": "Ashutosh Sundresh",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r34-official-stable-shapeshiftos-instantnoodlep.4258115/",
-        "support_group": "t.me/surfaceflinger_chat",
+        "support_group": "https://t.me/surfaceflinger_chat",
         "tg_id": 1371333535
       },
       "kebab": {
         "name": "8T",
         "maintainer": "Lukas",
         "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-0-official-stable-shapeshiftos-kebab.4255595/",
-        "support_group": "t.me/ssos8series",
+        "support_group": "https://t.me/ssos8series",
         "tg_id": 591918751
       }
     }
@@ -108,7 +108,7 @@
         "name": "POCO F1",
         "maintainer": "Neel",
         "xda_thread": null,
-        "support_group": "t.me/ssos_poco",
+        "support_group": "https://t.me/ssos_poco",
         "tg_id": 1440793492
       },
       "ginkgo": {
@@ -143,7 +143,7 @@
         "name": "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G",
         "maintainer": "ArixElo",
         "xda_thread": null,
-        "support_group": "t.me/arixelogroup",
+        "support_group": "https://t.me/arixelogroup",
         "tg_id": 479653169
       },
       "phoenix": {
