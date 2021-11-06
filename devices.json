@@ -212,6 +212,14 @@
         "xda_thread": null,
         "support_group": null,
         "tg_id": 376528543
+      },
+      "vince": {
+	"name": "Xiaomi Redmi 5 Plus",
+	"maintainer": "GhostMaster69-dev",
+	"supported": true,
+	"xda_thread": null,
+	"support_group": null,
+	"tg_id":"1618696707"
       }
     }
   ]
