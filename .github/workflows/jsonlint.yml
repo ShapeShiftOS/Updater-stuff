@@ -1,0 +1,12 @@
+on: [push, pull_request]
+
+name: Validate JSON
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: ocular-d/json-linter@0.0.2
+
