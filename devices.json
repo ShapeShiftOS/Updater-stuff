@@ -149,14 +149,6 @@
         "support_group": "https://t.me/lavenderboys",
         "tg_id": 759846584
       },
-      "miatoll": {
-        "name": "SD720g Devices",
-        "maintainer": "Notabot69",
-        "supported": true,
-        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r43-official-stable-shapeshiftos-2-8-curtana-gram-excalibur-joyeuse.4334297/",
-        "support_group": "https://t.me/BotsGarage",
-        "tg_id": 1380028411
-      },
       "gauguin": {
         "name": "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G",
         "maintainer": "ArixElo",
