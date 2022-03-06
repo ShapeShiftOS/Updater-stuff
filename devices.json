@@ -109,14 +109,6 @@
         "support_group": null,
         "tg_id": 25237286
       },
-      "apollo": {
-        "name": "Mi 10T / Pro",
-        "maintainer": "ejbtrd",
-        "supported": true,
-        "xda_thread":"https://forum.xda-developers.com/t/rom-11-0_r33-official-stable-shapeshiftos-mi-10t-apollo-pro.4256045/",
-        "support_group": "https://t.me/ejbtrdsspaceship",
-        "tg_id": 883223328
-      },
       "beryllium": {
         "name": "POCO F1",
         "maintainer": "Neel",
